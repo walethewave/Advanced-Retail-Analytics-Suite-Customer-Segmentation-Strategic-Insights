@@ -1,8 +1,6 @@
 # 🏆 Advanced Retail Analytics Suite: Customer Segmentation & Strategic Insights  
 **End-to-End Data Science Project Demonstrating RFM Analysis, Clustering, and Market Basket Optimization**  
 
-![Project Banner](https://via.placeholder.com/1200x400.png/009688/ffffff?text=Retail+Analytics+Powered+by+Python+%7C+Pandas+%7C+Machine+Learning)
-
 ## 📋 Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Business Problem & Objectives](#-business-problem--objectives)
