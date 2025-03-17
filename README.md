@@ -267,7 +267,7 @@ seaborn==0.11.2
    - Lambda functions for ETL pipelines
 
 ## 📬 Contact Information
-**John Doe**  
+**Afolabi Olawale**  
 Data Science Specialist  
 📧 lekanolawale477@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/afolabi-olawale-691114255/)  
